@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Rent_to_Go_Without_relationshipContext"
+    }
+  }
+}
